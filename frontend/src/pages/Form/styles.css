@@ -55,7 +55,3 @@
     align-items: center;
     justify-content: center;
 }
-a, a:hover {
-    text-decoration: none;
-    color: unset;
-  }
