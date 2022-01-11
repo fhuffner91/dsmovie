@@ -51,3 +51,7 @@
 .dsmovie-flip-horizontal {
     transform: rotate(180deg);
 }
+a, a:hover {
+    text-decoration: none;
+    color: unset;
+  }
