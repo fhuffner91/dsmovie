@@ -17,7 +17,7 @@ public class MovieController {
 	@Autowired
 	private MovieService service;
     @GetMapping
-	public Page<MovieDTO> findaAll(Pageable pageable){
+	public Page<MovieDTO> findAll(Pageable pageable){
 		return service.findAll(pageable);
 	}
     @GetMapping(value ="/{id}")
