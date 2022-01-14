@@ -7,7 +7,7 @@ import { MoviePage } from 'types/movie'
 
 function Listing() {
   const [pageNumber, setPageNumber] = useState(0)
-  const [page, setPage] = useState<MoviePage>({
+  const [page, setPage] = useState< MoviePage >({
     content: [],
     last: true,
     totalPages: 0,
