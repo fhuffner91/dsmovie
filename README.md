@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  :moneybag: Manage your money. Project developed at Semana Spring React Dev Superior | <a href="https://devsuperior.com.br">@devsuperior</a>
+  🐱‍🏍 Rate you favorite movie. Project developed at Semana Spring React Dev Superior | <a href="https://devsuperior.com.br">@devsuperior</a>
 </p>
 
 <div align="center">
